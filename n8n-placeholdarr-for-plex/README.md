@@ -18,6 +18,9 @@ It’s useful for maintaining a large Plex library **without needing the actual 
 - Each n8n node must have the correct **URL** and **authorization headers** configured.
 - The **SSH host** (used to create dummy files) must have **FFmpeg** installed.
 - A **Trakt.TV API key** is required if you're using **Trakt collections**.
+- Change library id's to your
+- Adjust the library IDs in the Plex HTTP calls to match your own library IDs.  
+In this flow, `7` represents Movies and `8` represents Series.
 
 ---
 
