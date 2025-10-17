@@ -58,7 +58,6 @@ Installation guides and instructions will be added soon!
 ## Resources
 
 - 🔧 n8n GitHub: [github.com/n8n-io/n8n](https://github.com/n8n-io/n8n)
-- 💬 Discord: [RivenMedia Discord](https://discord.gg/rivenmedia)
 
 ---
 
